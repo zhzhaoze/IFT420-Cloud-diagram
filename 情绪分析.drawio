@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:11:03.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SrZrqF3p8BWYdBpoyvPm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T13:15:08.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eOSnLAMXVtiBWNCBnafO" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,6 +35,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="585" as="sourcePoint" />
             <mxPoint x="490" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80o-tuBRAKh3QSygiSwP-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;情感词汇词典&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1364" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="80o-tuBRAKh3QSygiSwP-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;情感分值分配&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1464" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="80o-tuBRAKh3QSygiSwP-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;情感强度计算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1564" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="80o-tuBRAKh3QSygiSwP-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;情感极性分类&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1684" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="80o-tuBRAKh3QSygiSwP-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1364" as="sourcePoint" />
+            <mxPoint x="600" y="1754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
