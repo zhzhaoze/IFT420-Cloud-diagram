@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="第 1 页" id="QpztmSrhWvbnbYw_cD0k">
-    <mxGraphModel>
+    <mxGraphModel dx="961" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-1" target="4tYhoonyr5WxV3_bWO3Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-1" value="BART-Ehanced Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-2" target="4tYhoonyr5WxV3_bWO3Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-2" target="4tYhoonyr5WxV3_bWO3Q-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="310" />
+              <mxPoint x="430" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-2" value="VADER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-4" target="4tYhoonyr5WxV3_bWO3Q-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-4" value="Sentiment Weight Calibrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-6" target="4tYhoonyr5WxV3_bWO3Q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-6" value="Adjusted Sentiment Score" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="620" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-9" target="4tYhoonyr5WxV3_bWO3Q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-9" value="Lexicon Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-11" target="4tYhoonyr5WxV3_bWO3Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-11" value="Lexicon Fusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-13" target="4tYhoonyr5WxV3_bWO3Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-13" value="Contextual Sentiment Multifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-16" value="Final Score" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="780" width="230" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
