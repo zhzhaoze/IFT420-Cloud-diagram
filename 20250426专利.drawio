@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="第 1 页" id="QpztmSrhWvbnbYw_cD0k">
-    <mxGraphModel dx="961" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4tYhoonyr5WxV3_bWO3Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-1" target="4tYhoonyr5WxV3_bWO3Q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4tYhoonyr5WxV3_bWO3Q-1" value="BART-Ehanced Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-1" value="BART加强文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4tYhoonyr5WxV3_bWO3Q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-2" target="4tYhoonyr5WxV3_bWO3Q-4">
@@ -21,7 +21,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4tYhoonyr5WxV3_bWO3Q-2" value="VADER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-2" value="VADER情绪分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4tYhoonyr5WxV3_bWO3Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-4" target="4tYhoonyr5WxV3_bWO3Q-6">
@@ -43,13 +43,13 @@
         <mxCell id="4tYhoonyr5WxV3_bWO3Q-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-9" target="4tYhoonyr5WxV3_bWO3Q-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4tYhoonyr5WxV3_bWO3Q-9" value="Lexicon Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="110" width="230" height="80" as="geometry" />
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-9" value="词典生成器（识别专属领域下的特定词汇）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="110" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4tYhoonyr5WxV3_bWO3Q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-11" target="4tYhoonyr5WxV3_bWO3Q-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4tYhoonyr5WxV3_bWO3Q-11" value="Lexicon Fusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tYhoonyr5WxV3_bWO3Q-11" value="词典融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="270" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4tYhoonyr5WxV3_bWO3Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4tYhoonyr5WxV3_bWO3Q-13" target="4tYhoonyr5WxV3_bWO3Q-6">
