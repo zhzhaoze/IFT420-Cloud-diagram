@@ -184,7 +184,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBeqfgcJZAM3OBN2iYin-6" value="输入St-EGM；当前隐状态h_t" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XBeqfgcJZAM3OBN2iYin-6" value="输入ST-EGM；当前隐状态h_t" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="543.5" y="2580" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBeqfgcJZAM3OBN2iYin-9" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
@@ -256,8 +256,8 @@
             <mxPoint x="629" y="2657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBeqfgcJZAM3OBN2iYin-31" value="&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;font-family:仿宋;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;历史情绪状态向量&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.5pt;font-family:仿宋;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;与&lt;b&gt;空间上下文向量&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2704" width="173" height="30" as="geometry" />
+        <mxCell id="XBeqfgcJZAM3OBN2iYin-31" value="&lt;font&gt;ST-EGM同步&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;历史情绪状态向量&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;与&lt;b style=&quot;&quot;&gt;空间上下文向量&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="2699" width="183" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
