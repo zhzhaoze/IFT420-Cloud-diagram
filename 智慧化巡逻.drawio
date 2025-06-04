@@ -253,6 +253,14 @@
         <mxCell id="dSR3jNI2SDN-VHp2QSge-9" value="订阅服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="2691" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dSR3jNI2SDN-VHp2QSge-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dSR3jNI2SDN-VHp2QSge-14" target="dSR3jNI2SDN-VHp2QSge-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dSR3jNI2SDN-VHp2QSge-47" value="登录/保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSR3jNI2SDN-VHp2QSge-46">
+          <mxGeometry x="-0.071" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-14" value="认证服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="704" y="2691" width="120" height="60" as="geometry" />
         </mxCell>
@@ -290,13 +298,16 @@
           <mxGeometry x="-63" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-36" value="设备流管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="2832.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="453" y="2832.5" width="75" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-40" value="轮巡模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="2832.5" width="70" height="26" as="geometry" />
+          <mxGeometry x="534" y="2832.5" width="70" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-41" value="任务增删改查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="613" y="2832.5" width="78" height="26.5" as="geometry" />
+          <mxGeometry x="613" y="2832.5" width="75" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dSR3jNI2SDN-VHp2QSge-45" value="注册/注销" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="701" y="2834.25" width="118" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
