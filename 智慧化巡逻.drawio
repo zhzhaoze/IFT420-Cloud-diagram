@@ -283,10 +283,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-22" value="订阅通知" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="2828" width="114" height="34" as="geometry" />
+          <mxGeometry x="-60" y="2833" width="114" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-25" value="通知查询，删除" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="2828" width="102" height="35" as="geometry" />
+          <mxGeometry x="84" y="2833" width="102" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dSR3jNI2SDN-VHp2QSge-27" value="通知推送" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="2831" width="100" height="35" as="geometry" />
