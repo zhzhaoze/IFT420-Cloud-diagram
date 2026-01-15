@@ -13,6 +13,11 @@
         <mxCell id="tPcYUvQZwgevtYaSWCEZ-37" edge="1" parent="1" source="tPcYUvQZwgevtYaSWCEZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tPcYUvQZwgevtYaSWCEZ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tPcYUvQZwgevtYaSWCEZ-49" connectable="0" parent="tPcYUvQZwgevtYaSWCEZ-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="rtsp流 / TCP" vertex="1">
+          <mxGeometry relative="1" x="-0.0201" y="-1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tPcYUvQZwgevtYaSWCEZ-4" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.10700;" value="router" vertex="1">
           <mxGeometry height="53" width="78" x="148" y="387" as="geometry" />
         </mxCell>
@@ -24,6 +29,11 @@
         </mxCell>
         <mxCell id="tPcYUvQZwgevtYaSWCEZ-6" connectable="0" parent="tPcYUvQZwgevtYaSWCEZ-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="视频流/图片流" vertex="1">
           <mxGeometry relative="1" x="0.1031" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPcYUvQZwgevtYaSWCEZ-48" connectable="0" parent="tPcYUvQZwgevtYaSWCEZ-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TCP" vertex="1">
+          <mxGeometry relative="1" x="0.3533" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
